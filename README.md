@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Bochanikita.github.io/rsschool-cv/cv
