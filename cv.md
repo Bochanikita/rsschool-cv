@@ -1,26 +1,26 @@
-rsschool-cv
+# rsschool-cv
 
-Nikita Bocharov
+#Nikita Bocharov
 
-Contacts
+##Contacts
 Location: Moscow
 Phone: 
 Email: bocharovnikitaa@gmail.com
 GitHub: bochanikita
 
-About Me
+##About Me
 Text
 
-Skills
+##Skills
 HTML
 CSS/SASS
 JS
 Git
 
-Code Example
+##Code Example
 
-Expirience
+##Expirience
 
-Education
+##Education
 
-English
+##English
